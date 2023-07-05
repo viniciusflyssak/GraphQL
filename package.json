@@ -1,0 +1,19 @@
+{
+  "name": "GraphQL",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [
+    "GraphQL",
+    "API"
+  ],
+  "author": "Vinicius Flyssak",
+  "license": "ISC",
+  "description": "GraphQL com Node.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.6.0",
+    "graphql-tools": "^8.3.14",
+    "mongodb": "^4.12.1"
+  }
+}
